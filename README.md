@@ -28,3 +28,7 @@ char* string2char(String command) {
 ```
 
 串口通讯，波特率9600，输入任意字符，返回md5。实际可能没什么用处，不过也许在特定应用场景下会有些用处。
+
+![](demo.gif)
+
+(动图使用peek录制)
